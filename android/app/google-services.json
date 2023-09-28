@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813642344670",
+    "project_id": "yehyefirebasee",
+    "storage_bucket": "yehyefirebasee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813642344670:android:22cdcbcbd1e6eca820ba4f",
+        "android_client_info": {
+          "package_name": "com.yehyebb.yehyefirebasee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813642344670-3qum6m0rva2l24srtb7gr19phj69uh7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB0o1FQO5mGyejvQoyynrA-gvDQMsJ19w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813642344670-3qum6m0rva2l24srtb7gr19phj69uh7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
